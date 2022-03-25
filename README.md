@@ -3,4 +3,4 @@ This is my personal open-source digital garden using Obsidian to create my files
 
 I'm hopeful this will translate quite well with GitHub since Obsidian uses standard Markdown for it's formatting.
 
-- Maybe we can create a server site generator in the future to work with Obsidian based repositories.
+- Maybe we can create a static site generator in the future to work with Obsidian based repositories.
